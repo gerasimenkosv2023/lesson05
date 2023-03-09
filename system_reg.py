@@ -114,5 +114,5 @@ while True:
             break
     except Exception as message:
         print(message)#в случае ошибки выведем сообщение, указанное в raise
-        print()
+        print(111)
         continue
