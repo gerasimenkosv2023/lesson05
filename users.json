@@ -1,0 +1,10 @@
+[
+    {
+        "login": "admin",
+        "password": "321aA!77"
+    },
+    {
+        "login": "test",
+        "password": "1234567\u0432\u0430\u044b\u0432\u0430aaSDF"
+    }
+]
