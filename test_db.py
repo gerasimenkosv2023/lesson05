@@ -5,7 +5,7 @@ import pymysql.cursors
 
 from pymysql import *
 
-# Делаем connect к базе данных
+# Делаем connect к базе данных111
 
 def update(cur):
     title = input("Введите название авто у которой меняем стоимость")
