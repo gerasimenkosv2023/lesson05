@@ -110,7 +110,7 @@ while True:
             change_password()
         elif choice == "3":
             print_logins()
-        elif choice == "4":
+        elif choice == "5":
             break
     except Exception as message:
         print(message)#в случае ошибки выведем сообщение, указанное в raise
